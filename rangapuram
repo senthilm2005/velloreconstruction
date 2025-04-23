@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vellore Construction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 30px;
+            max-width: 1000px;
+            margin: auto;
+            background-color: white;
+        }
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vellore Construction</h1>
+        <p>Commercial and Residential Builders in Vellore</p>
+    </header>
+
+    <div class="container">
+        <h2>About Us</h2>
+        <p>We are a leading building contractor in Vellore with over 100 skilled employees. Located at No 21, Phase IV, Vallalar, Vellore 632009, we specialize in all kinds of construction work – both commercial and residential – across the city.</p>
+
+        <h2>Current Project</h2>
+        <p>Our latest project is a 2500 sq. ft. commercial building in Sripuram.</p>
+
+        <h2>Contact</h2>
+        <p><strong>Address:</strong> No 21, Phase IV, Vallalar, Vellore 632009<br>
+        <strong>Email:</strong> your-email@example.com<br>
+        <strong>Phone:</strong> +91-XXXXXXXXXX</p>
+    </div>
+
+    <footer>
+        <p>© 2025 Vellore Construction. All rights reserved.</p>
+    </footer>
+</body>
+</html>
